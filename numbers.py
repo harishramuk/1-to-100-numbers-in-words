@@ -1,4 +1,4 @@
-n = int(input('enter the no 1 to 100:'))
+n = int(input('enter the numbers 1 to 100:'))
 output = ''
 word_ones = [' ','one','two','three','four',
              'five','six','seven','eight','nine','ten',
@@ -15,4 +15,5 @@ elif n<=100:
     print((word_tens[n//10])+' '+(word_ones[n%10]))
 else:
     print('n is not in bettwin for 1 to 100:')
+
     
