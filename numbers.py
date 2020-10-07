@@ -1,3 +1,4 @@
+
 n = int(input('enter the numbers 1 to 100:'))
 output = ''
 word_ones = [' ','one','two','three','four',
