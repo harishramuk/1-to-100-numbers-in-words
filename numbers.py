@@ -18,4 +18,5 @@ else:
 
 print('branch test')
 print('fork test')
+print('resolving merge confilicts')
     
